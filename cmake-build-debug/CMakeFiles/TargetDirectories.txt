@@ -1,0 +1,3 @@
+/Users/francismwangi/CLionProjects/mwaside_os/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/francismwangi/CLionProjects/mwaside_os/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/francismwangi/CLionProjects/mwaside_os/cmake-build-debug/CMakeFiles/mwaside_os.dir
